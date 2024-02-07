@@ -1,0 +1,17 @@
+{
+    "name": "student076",
+    "version": "1.0.0",
+    
+    "main": "index.js",
+    "tupe": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "bin": {
+        "brain-games": "bin/brain-games.js"
+      },
+    "license": "ISC",
+    "description": ""
+    
+  }
